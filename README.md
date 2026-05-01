@@ -65,7 +65,7 @@ This work builds upon established research in:
 ## Usage
 
 ```python
-from swarms.sims.senator_assembly import SenatorAssembly
+from main import SenatorAssembly
 
 
 def main():
